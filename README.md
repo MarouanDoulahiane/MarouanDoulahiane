@@ -7,6 +7,9 @@
 </div>
 
 ###
+<p align="center">
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/colorfulwaves/mdoulahi" alt="mdoulahi's 42 stats" /></a>
+</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MarouanDoulahiane&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=jolly&locale=en&hide_border=false" height="150" alt="stats graph"  />
