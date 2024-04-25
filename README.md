@@ -66,7 +66,7 @@ I am a dedicated student at [1337](https://www.1337.ma/), powered by the [42 net
   <a href="mailto:marouandoulahiane@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://linkedin.com/in/marouan-doulahiane-1a362b258" target="_blank">
+  <a href="https://linkedin.com/in/marouan-doulahiane" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://twitter.com/doulahiane" target="_blank">
