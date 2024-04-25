@@ -35,7 +35,7 @@ I am a dedicated student at [1337](https://www.1337.ma/), powered by the [42 net
     - born2beroot: Sysadmin
     - [minitalk](https://github.com/MarouanDoulahiane/minitalk): C - Signals
     - [so_long](https://github.com/MarouanDoulahiane/so_long): C - GameDev
-    - [push_swap](https://github.com/MarouanDoulahiane/so_long): C - Sorting algorithms and complexity
+    - [push_swap](https://github.com/MarouanDoulahiane/push_swap): C - Sorting algorithms and complexity
     - [Philosophers](https://github.com/MarouanDoulahiane/philosophers): C - Threads and Processes
     - [minishell](https://github.com/MarouanDoulahiane/minishell): C - Processes and file descriptors
     - [cub3D](https://github.com/MarouanDoulahiane/Cub3D): C - GameDev using raycasting
