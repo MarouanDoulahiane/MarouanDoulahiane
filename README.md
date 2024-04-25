@@ -29,20 +29,20 @@ I am a dedicated student at [1337](https://www.1337.ma/), powered by the [42 net
   - *November 2023 - Present*
   - Actively engaged in a rigorous curriculum focused on practical learning and problem-solving.
   - Completed a diverse range of projects covering various domains, including:
-    - Libft: C - Libraries
-    - get_next_line: C - Static variables
-    - ft_printf: C - Variadic functions
+    - [Libft](https://github.com/MarouanDoulahiane/libft): C - Libraries
+    - [get_next_line](https://github.com/MarouanDoulahiane/get_next_line): C - Static variables
+    - [ft_printf](https://github.com/MarouanDoulahiane/ft_printf): C - Variadic functions
     - born2beroot: Sysadmin
-    - minitalk: C - Signals
-    - so_long: C - GameDev
-    - push_swap: C - Sorting algorithms and complexity
-    - Philosophers: C - Threads and Processes
-    - minishell: C - Processes and file descriptors
-    - cub3D: C - GameDev using raycasting
-    - NetPractice: C - Networking
-    - CPP-Modules: C++
-    - ft_irc: Socket Programming - C++
-    - inception: Docker - Docker-compose
+    - [minitalk](https://github.com/MarouanDoulahiane/minitalk): C - Signals
+    - [so_long](https://github.com/MarouanDoulahiane/so_long): C - GameDev
+    - [push_swap](https://github.com/MarouanDoulahiane/so_long): C - Sorting algorithms and complexity
+    - [Philosophers](https://github.com/MarouanDoulahiane/philosophers): C - Threads and Processes
+    - [minishell](https://github.com/MarouanDoulahiane/minishell): C - Processes and file descriptors
+    - [cub3D](https://github.com/MarouanDoulahiane/Cub3D): C - GameDev using raycasting
+    - [NetPractice](https://github.com/MarouanDoulahiane/Net_Practice_Script): C - Networking
+    - [CPP-Modules](https://github.com/MarouanDoulahiane/CPP_Modules): C++
+    - [ft_irc](https://github.com/omar-xy/IRC_serv): Socket Programming - C++
+    - [inception](https://github.com/MarouanDoulahiane/inception): Docker - Docker-compose
   - Actively seeking opportunities to further develop and expand my skill set.
 
 ## Skills
