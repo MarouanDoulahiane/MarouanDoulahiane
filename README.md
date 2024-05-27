@@ -39,7 +39,7 @@ I am a dedicated student at [1337](https://www.1337.ma/), powered by the [42 net
     - [NetPractice](https://github.com/MarouanDoulahiane/Net_Practice_Script): C - Networking
     - [CPP-Modules](https://github.com/MarouanDoulahiane/CPP_Modules): C++
     - [ft_irc](https://github.com/omar-xy/IRC_serv): Socket Programming - C++
-    - [inception](https://github.com/MarouanDoulahiane/inception): Docker - Docker-compose
+    - [inception](https://github.com/MarouanDoulahiane/inception-42): Docker - Docker-compose
   - Actively seeking opportunities to further develop and expand my skill set.
 
 ## Skills
