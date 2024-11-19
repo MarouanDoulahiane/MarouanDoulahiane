@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Marouan Doulahiane. and I'm a Student at 1337, from Morocco</h2>
+<h2 align="left">Hi 👋! My name is Marouan Doulahiane, and I'm a Software Engineer from Morocco</h2>
 
 ###
 
@@ -16,43 +16,27 @@
 
 ###
 
-# Student at 1337
+# Software Engineer
 
 ## Summary
-I am a dedicated student at [1337](https://www.1337.ma/), powered by the [42 network](https://www.42.fr/) and proudly sponsored by [OCP Group](https://www.ocpgroup.ma/) as part of [UM6P](https://www.um6p.ma/). Since starting my journey in November 2023, I have immersed myself in a wide array of projects and learning opportunities. My relentless pursuit of knowledge, fueled by a love for the domain, has propelled me forward in my quest to be exceptional rather than average. I firmly believe in the power of continuous learning and discipline to achieve excellence.
+I am a passionate Software Engineer with a deep interest in systems engineering, software architecture, and problem-solving. I strive for excellence in every project, leveraging my skills and experience to build secure, scalable, and high-performance solutions. As a student at [1337](https://www.1337.ma/), part of the globally recognized [42 network](https://www.42.fr/), I have been trained through hands-on projects and peer learning. I am continuously learning, refining my skills, and contributing to innovative software solutions.
 
 ## Experience
-- **1337 Student**
-  - *November 2023 - Present*
-  - Actively engaged in a rigorous curriculum focused on practical learning and problem-solving.
-  - Completed a diverse range of projects covering various domains, including:
-    - [Libft](https://github.com/MarouanDoulahiane/libft): C - Libraries
-    - [get_next_line](https://github.com/MarouanDoulahiane/get_next_line): C - Static variables
-    - [ft_printf](https://github.com/MarouanDoulahiane/ft_printf): C - Variadic functions
-    - born2beroot: Sysadmin
-    - [minitalk](https://github.com/MarouanDoulahiane/minitalk): C - Signals
-    - [so_long](https://github.com/MarouanDoulahiane/so_long): C - GameDev
-    - [push_swap](https://github.com/MarouanDoulahiane/push_swap): C - Sorting algorithms and complexity
-    - [Philosophers](https://github.com/MarouanDoulahiane/philosophers): C - Threads and Processes
-    - [minishell](https://github.com/MarouanDoulahiane/minishell): C - Processes and file descriptors
-    - [cub3D](https://github.com/MarouanDoulahiane/Cub3D): C - GameDev using raycasting
-    - [NetPractice](https://github.com/MarouanDoulahiane/Net_Practice_Script): C - Networking
-    - [CPP-Modules](https://github.com/MarouanDoulahiane/CPP_Modules): C++
-    - [ft_irc](https://github.com/omar-xy/IRC_serv): Socket Programming - C++
-    - [inception](https://github.com/MarouanDoulahiane/inception-42): Docker - Docker-compose
-  - Actively seeking opportunities to further develop and expand my skill set.
+- **Software Engineer at 1337**
+  - *November 2024 - Present*
+  - Focused on building and maintaining high-performance applications.
+  - Engaged in secure and scalable system design, ensuring optimal performance.
+  - Strong understanding of algorithms, data structures, and systems programming.
 
 ## Skills
-- **Programming Languages:** C, C++
-- **Technologies:** Docker, MySQL, Nginx
-- **Concepts:** Networking, Sysadmin, Game Development, Sorting Algorithms
-- **Soft Skills:** Discipline, Continuous Learning, Problem-solving, Teamwork
+- **Programming Languages:** C, C++, Python, JavaScript/TypeScript
+- **Technologies:** React/Nextjs, Nestjs, Docker, MySQL/Postgres, Nginx, CI/CD, PostMan
+- **Concepts:** Networking, Distributed Systems, Game Development, System Architecture
+- **Soft Skills:** Discipline, Continuous Learning, Problem-solving, Leadership
 
 ## Education
 - **1337 - School 42**
-  - *Expected Graduation: 2024/08/01*
-  - Rigorous and innovative programming curriculum focusing on peer-to-peer learning and practical projects.
-
+  - Peer-to-peer learning with a focus on project-based education, developing skills in software engineering, problem-solving, and team collaboration.
 
 ###
 
@@ -70,9 +54,6 @@ I am a dedicated student at [1337](https://www.1337.ma/), powered by the [42 net
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </div>
-
-###
-
 
 ###
 
