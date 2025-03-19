@@ -18,7 +18,7 @@
 # Software Engineer
 
 ## Summary
-I am a passionate Software Engineer with a deep interest in systems engineering, software architecture, and problem-solving. I strive for excellence in every project, leveraging my skills and experience to build secure, scalable, and high-performance solutions. As a student at [1337](https://www.1337.ma/), part of the globally recognized [42 network](https://www.42.fr/), I have been trained through hands-on projects and peer learning. I am continuously learning, refining my skills, and contributing to innovative software solutions.
+A versatile and ambitious 21-year-old Software Engineer currently working full-time at 1337 while also pursuing my studies at 1337 Coding School (part of the 42 network). I’ve led impactful projects such as optimizing employee management platforms, implementing HLS streaming services, and significantly improving backend performance through advanced query refactoring. My expertise spans C, Python, JavaScript, FastAPI, NestJS, and more. Known for my rapid learning, adaptability, and hands-on problem-solving, I excel in environments that demand innovation, secure solutions, and scalable architectures. Reliable, fearless, and eager to bring fresh energy and technical depth to my keys.
 
 ## Experience
 - **Software Engineer at 1337**
