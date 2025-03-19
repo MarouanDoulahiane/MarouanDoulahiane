@@ -18,7 +18,7 @@
 # Software Engineer
 
 ## Summary
-A versatile and ambitious 21-year-old Software Engineer currently working full-time at 1337 while also pursuing my studies at 1337 Coding School (part of the 42 network). I’ve led impactful projects such as optimizing employee management platforms, implementing HLS streaming services, and significantly improving backend performance through advanced query refactoring. My expertise spans C, Python, JavaScript, FastAPI, NestJS, and more. Known for my rapid learning, adaptability, and hands-on problem-solving, I excel in environments that demand innovation, secure solutions, and scalable architectures. Reliable, fearless, and eager to bring fresh energy and technical depth to my keys.
+A versatile and ambitious 21-year-old Software Engineer currently working full-time at 1337 while also pursuing my studies at 1337 Coding School (part of the 42 network and UM6P). I’ve led impactful projects such as optimizing employee management platforms, implementing HLS streaming services, and significantly improving backend performance through advanced query refactoring. My expertise spans C, Python, JavaScript, FastAPI, NestJS, and more. Known for my rapid learning, adaptability, and hands-on problem-solving, I excel in environments that demand innovation, secure solutions, and scalable architectures. Reliable, fearless, and eager to bring fresh energy and technical depth to my keys.
 
 ## Experience
 - **Software Engineer at 1337**
