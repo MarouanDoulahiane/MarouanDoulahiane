@@ -58,4 +58,4 @@ I believe in **High-Frequency Execution**.
 
 ---
 
-[🌐 Website](https://resumefy.pro) • [💼 LinkedIn](https://www.linkedin.com/in/marouan-doulahiane) • [🐦 Twitter/X](#)
+[🌐 Website](https://resumefy.pro) • [💼 LinkedIn](https://www.linkedin.com/in/marouan-doulahiane) • [🐦 Twitter/X](https://x.com/doulahiane)
