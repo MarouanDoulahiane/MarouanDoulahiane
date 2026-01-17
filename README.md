@@ -1,60 +1,61 @@
 ### **PiPE (Marouan Doulahiane)**
 
-⚔️ 0.1% Warlord @ [Resumefy.pro](https://resumefy.pro) | Forging a $10K/mo “War Machine” — *LIVE from $0*
+**AI Engineer & Founder** | Architecting [Resumefy.pro](https://resumefy.pro) 🛡️ | Reverse-Engineering the Hiring Algorithm
 
 ---
 
-I am a **21-year-old Warlord** — forging *impossible* 0.1% “weapons” from my forge in **Morocco**.
+I am a **21-year-old Full Stack AI Engineer** based in **Morocco**.
+I don't just write code; I ship systems that force the market to pay attention.
 
-By day, I wear the **disguise** (*AI Engineer @ 1337*).
-By night, I am the **Architect** of the *Resumefy.pro War Machine*.
+* **By Day:** Building scalable AI infrastructure @ **1337**.
+* **By Night:** Founder of **Resumefy**, an AI engine designed to exploit and bypass Applicant Tracking Systems (ATS).
 
-I’m on a **Public War** to forge a **$10,000 MRR Money Engine** from $0.
-This is not a *dream*.
-This is a *Public Spectacle*.
-
----
-
-### ⚙️ **THE WAR**
-
-The “Job Application Black Hole” is hell.
-The 99.9% *dreamers* wait for luck.
-I am the **0.1% Warlord** — fighting back with code, caffeine, and chaos.
+My mission is absolute: **$0 → $10,000 MRR.**
+No funding. No investors. Just execution.
 
 ---
 
-### 🔥 **THE FORGE**
+### 🛡️ **THE MISSION: SYSTEM EXPLOIT**
 
-In a 21-day, 20-hour-a-day forge, I built:
+The modern hiring market is not broken; it is **automated against you**.
+75% of qualified resumes are deleted by bots before a human ever sees them.
 
-* **Resumefy.pro V2** — a dopamine-engineered AI resume platform.
-* **AITailor.pro** — the “Railgun” for content creation.
-* **Live Preview Engine** — real-time UX dopamine.
-* **Warlord’s Shield** — full-stack reliability armor.
-* **LLM Fuel** — the neural power core.
-
-All from Morocco. All from $0.
+I am building the counter-measure.
+* **Resumefy.pro** is not a resume builder. It is an **Optimization Layer** that structures candidate data to match enterprise hiring logic.
+* We turn "rejected" into "interviewed" by reverse-engineering the keyword matching algorithms used by Fortune 500 companies.
 
 ---
 
-### 🧠 **THE GREAT FILTER**
+### ⚡ **THE VELOCITY (THE FORGE)**
 
-The Gatekeepers (Stripe, PayPal) **rejected Morocco**.
-The 99.9% stop here. They wait for permission.
-I built my own **“Money Engine”** — *(whop.com + Coinbase)* — overnight.
+I believe in **High-Frequency Execution**.
 
----
-
-### ⚔️ **THE PROPHECY**
-
-* The **War Machine** is LIVE.
-* The **Money Engine** is FORGED.
-* The **War Journal** (MRR) is PUBLIC.
-
-This is the **A-to-Z plan**.
-This is the **Warlord’s Way**.
-This is how we **win**.
+* **The Sprint:** Architected, designed, and deployed the full stack of Resumefy (V2) in **21 days**.
+* **The Stack:** NextJS (App Router), NestJS (Backend), Python (AI/LLM Agents), PostgreSQL, Docker.
+* **The "Morocco Firewall":** When Stripe and PayPal blocked payments for my region, I didn't stop. I engineered a custom payment pipeline using **Whop + Crypto Infrastructure** to keep the business live.
 
 ---
 
-#BuildInPublic #SaaS #AI #Warlord #Resumefy #Morocco
+### 🧠 **THE ARSENAL**
+
+| Domain | Technology |
+| :--- | :--- |
+| **Core** | `TypeScript`, `Python`, `C` |
+| **Frontend** | `NextJS 14`, `TailwindCSS`, `Framer Motion` (The "Dopamine" UI) |
+| **Backend** | `NestJS`, `FastAPI`, `PostgreSQL`, `Redis` |
+| **AI / LLM** | `OpenAI API`, `LangChain`, `RAG Pipelines`, `Semantic Analysis` |
+| **DevOps** | `Docker`, `CI/CD`, `Linux` |
+
+---
+
+### 📉 **THE LOG**
+
+* **Status:** LIVE 🟢
+* **Current Objective:** 100 Early Adopters -> First $100 MRR.
+* **Transparency:** I build in public. Every commit, every failure, and every dollar is documented.
+
+> "The system is rigged. Code is the only way to level the playing field."
+
+---
+
+[🌐 Website](https://resumefy.pro) • [💼 LinkedIn](https://www.linkedin.com/in/marouan-doulahiane) • [🐦 Twitter/X](#)
